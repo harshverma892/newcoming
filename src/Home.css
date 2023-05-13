@@ -1,0 +1,41 @@
+.home {
+    margin: 2rem 3rem;
+  }
+  
+  .svc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .content {
+    width: 50%;
+    height: 100%;
+    text-align: start;
+  }
+  
+  .content p {
+    font-size: 0.85rem;
+  }
+  .img {
+    width: 45%;
+    display: flex;
+  }
+  
+  .img img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+  }
+  
+  .content a {
+    text-decoration: none;
+    color: black;
+    font-style: bold;
+    margin-top: 100px;
+  }
+  
+  
+  
+  
+   
